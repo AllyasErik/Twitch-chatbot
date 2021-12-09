@@ -1,0 +1,19 @@
+{
+	"game": "Valorant",
+	"greetings": [
+		"Hello"
+		"Hi"
+		"Hello there"
+		"Greetings"
+		"Heyyo"
+	],
+	"program": {
+		"hetfo": ["League of Legends"],
+		"kedd": ["szunet"],
+		"szerda": ["Valorant, League of Legends"],
+		"csutortok": ["szunet"],
+		"pentek": ["Art, Random game"],
+		"szombat": ["Art"],
+		"vasarnap": ["szunet"]
+	}
+}
